@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: var(--text-color);
 }
-/* -----------about----------- */
+/* -----------about me----------- */
 #about{
     padding: 80px 0;
     color: #ababab;
@@ -96,14 +96,14 @@ nav ul li a:hover::after{
 }
 
 .sub-title{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
     color: white;
 }
 
 .tab-titles{
     display: flex;
-    margin: 20px 0 40px;
+    margin: 20px 0 20px;
 }
 .tab-links{
     margin-right: 50px;
