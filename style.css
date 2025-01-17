@@ -218,7 +218,7 @@ nav ul li a:hover::after{
     pointer-events: none; 
 }
 .work:hover::after {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
 }
 .layer{
     width: 100%;
